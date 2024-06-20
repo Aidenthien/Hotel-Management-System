@@ -1,0 +1,90 @@
+14/May/2023 20:06:05 | ==================================================
+14/May/2023 20:06:05 | Staff aiden logged in
+14/May/2023 20:06:28 | Customer testing has booked Room A01
+14/May/2023 20:06:53 | New staff account has been registered under username demo
+14/May/2023 20:06:58 | Staff logged out
+14/May/2023 20:06:58 | ==================================================
+15/May/2023 02:15:43 | ==================================================
+15/May/2023 02:15:43 | Staff aiden logged in
+15/May/2023 02:16:17 | New staff account has been registered under username demo
+15/May/2023 02:16:20 | Staff logged out
+15/May/2023 02:16:20 | ==================================================
+15/May/2023 02:16:30 | ==================================================
+15/May/2023 02:16:30 | Staff demo logged in
+15/May/2023 02:22:54 | Customer aidenthien's detail has been updated 
+15/May/2023 02:26:50 | Customer test has booked Room A01
+15/May/2023 02:28:03 | Customer test's detail has been updated 
+15/May/2023 02:28:20 | Customer test's booking for room A05 has been cancelled and removed
+15/May/2023 02:29:25 | Customer test has checked out room A01
+15/May/2023 13:22:25 | ==================================================
+15/May/2023 13:22:25 | Staff aiden logged in
+15/May/2023 13:23:21 | New staff account has been registered under username a
+15/May/2023 13:25:24 | Customer a has booked Room B10
+15/May/2023 13:26:38 | Customer a's detail has been updated 
+15/May/2023 13:27:27 | Customer a's booking for room A05 has been cancelled and removed
+15/May/2023 13:27:34 | Customer aidenthien's booking for room A03 has been cancelled and removed
+15/May/2023 13:29:08 | Customer a has checked out room A05
+15/May/2023 13:29:50 | Staff logged out
+15/May/2023 13:29:50 | ==================================================
+15/May/2023 16:50:49 | ==================================================
+15/May/2023 16:50:49 | Staff aiden logged in
+15/May/2023 16:51:28 | New staff account has been registered under username finaltest
+15/May/2023 16:52:41 | Customer finaltest has booked Room A01
+15/May/2023 16:52:46 | Customer finaltest has booked Room A02
+15/May/2023 16:53:34 | Customer finaltest's detail has been updated 
+15/May/2023 16:53:54 | Customer finaltest's detail has been updated 
+15/May/2023 16:54:10 | Customer finaltest's booking for room A06 has been cancelled and removed
+15/May/2023 16:54:28 | Customer finaltest has checked out room A02
+15/May/2023 16:55:34 | Customer test has booked Room A01
+15/May/2023 16:55:41 | Customer test has checked out room A01
+15/May/2023 16:55:45 | Customer test has checked out room A01
+16/May/2023 11:40:19 | Customer jett has checked out room A02
+16/May/2023 11:40:35 | Customer test has checked out room A02
+16/May/2023 11:40:38 | Customer test has checked out room A02
+16/May/2023 11:40:40 | Customer test has checked out room A02
+16/May/2023 11:40:49 | Customer test has checked out room A02
+18/May/2023 12:10:33 | ==================================================
+18/May/2023 12:10:33 | Staff aiden logged in
+18/May/2023 13:52:29 | ==================================================
+18/May/2023 13:52:29 | Staff aiden logged in
+18/May/2023 13:53:39 | New staff account has been registered under username lasttest
+18/May/2023 13:55:32 | Customer lasttest has booked Room A04
+18/May/2023 13:55:42 | Customer lasttest has booked Room A05
+18/May/2023 13:58:36 | Customer lasttest's detail has been updated 
+18/May/2023 13:59:34 | Customer lasttest's booking for room A05 has been cancelled and removed
+18/May/2023 14:00:00 | Customer lasttest has checked out room A04
+18/May/2023 14:00:18 | Staff logged out
+18/May/2023 14:00:18 | ==================================================
+18/May/2023 15:47:48 | ==================================================
+18/May/2023 15:47:48 | Staff aiden logged in
+18/May/2023 15:49:27 | New staff account has been registered under username demo
+18/May/2023 15:51:26 | Customer ivan has booked Room A01
+18/May/2023 15:52:53 | Customer ivan's detail has been updated 
+18/May/2023 15:53:48 | Customer test's booking for room A02 has been cancelled and removed
+18/May/2023 15:54:17 | Customer ivan has checked out room A01
+18/May/2023 15:54:36 | Staff logged out
+18/May/2023 15:54:36 | ==================================================
+19/May/2023 22:46:43 | ==================================================
+19/May/2023 22:46:43 | Staff aiden logged in
+19/May/2023 22:47:01 | Staff logged out
+19/May/2023 22:47:01 | ==================================================
+04/Aug/2023 14:17:54 | Staff logged out
+04/Aug/2023 14:17:54 | ==================================================
+15/Nov/2023 09:46:12 | ==================================================
+15/Nov/2023 09:46:12 | Staff aiden logged in
+15/Nov/2023 09:46:34 | Staff logged out
+15/Nov/2023 09:46:34 | ==================================================
+15/Nov/2023 11:52:28 | ==================================================
+15/Nov/2023 11:52:28 | Staff aiden logged in
+15/Nov/2023 11:52:36 | Staff logged out
+15/Nov/2023 11:52:36 | ==================================================
+15/Nov/2023 11:58:55 | ==================================================
+15/Nov/2023 11:58:55 | Staff aiden logged in
+15/Nov/2023 11:59:12 | Staff logged out
+15/Nov/2023 11:59:12 | ==================================================
+10/Jan/2024 14:08:34 | ==================================================
+10/Jan/2024 14:08:34 | Staff aiden logged in
+10/Jan/2024 14:10:01 | ==================================================
+10/Jan/2024 14:10:01 | Staff aiden logged in
+10/Jan/2024 14:12:24 | Staff logged out
+10/Jan/2024 14:12:24 | ==================================================

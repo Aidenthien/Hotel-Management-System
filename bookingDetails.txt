@@ -1,0 +1,6 @@
+aidenthien, 030403140495, Male, 0165585754, aidenthien@gmail.com, Japan, 02/Mar/2023, 07/Mar/2023, A01, 350
+aidenthien, 030403140495, Male, 0165585754, aidenthienweijian@gmail.com, Malaysia, 02/Mar/2023, 07/Mar/2023, A03, 350
+ivan, 019238912, Female, 123123, email.com, johor, 03/Apr/2023, 06/Apr/2023, A02, 350
+John, 91982312, Female, 9948372, email.com, johor, 03/May/2023, 06/May/2023, A03, 350
+Kevin, 0192319812, Female, 123123581923, email.com, johor, 03/May/2023, 06/May/2023, A02, 350
+jett, ABC123, Male, 12313, ivanwong123@gmail.com, HongKong, 09/May/2023, 12/May/2023, A02, 350
